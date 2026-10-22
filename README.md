@@ -1,9 +1,5 @@
 # Carless · Denver Airbnb & transit explorer
 
-**Local development only. Do not publish, deploy, upload, or push this project unless the user explicitly requests it.**
-
-A scroll-driven landing page and interactive map built from the same data as `denver_airbnb_viz.ipynb`. Both share the Carless logo, warm ivory surfaces, green palette, and serif headings.
-
 ## Run locally
 
 Requires Node 22.13 or newer and npm.
